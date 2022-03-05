@@ -1,0 +1,7 @@
+.shiny-input-container:not(.shiny-input-container-inline) {
+  display: inline-block;
+}
+
+input {
+  text-align: center;
+}
